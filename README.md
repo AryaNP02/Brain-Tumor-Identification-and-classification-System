@@ -29,7 +29,7 @@ The dataset used for training and testing this model is available on [Kaggle](ht
 ## How to Use
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Brain-Tumor-Identification-and-classification-System.git
+    git clone https://github.com/AryaNP02/Brain-Tumor-Identification-and-classification-System.git
     cd Brain-Tumor-Identification-and-classification-System
     ```
 
